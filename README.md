@@ -11,6 +11,7 @@ App.js:     API populate data stored in mongoDB.
 
 1. Install MongoDB
 2. 'npm install' on this repo.
+3. start the server.
 
 
 That's all.
