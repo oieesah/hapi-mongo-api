@@ -18,8 +18,6 @@ var todos = [
 ];
 var server = new Hapi.Server(3000);
 
-
-
 server.route({
     method: 'GET',
     path: '/todos',
